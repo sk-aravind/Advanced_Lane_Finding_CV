@@ -1,6 +1,7 @@
-## Writeup Template
+# __Advanced Lane Finding Project__
+## Using Computer Vision to identify lane paths, turning radius and vehicle offset in varying conditions with temporal smoothing
 
----
+![alt text][image6]
 
 **Advanced Lane Finding Project**
 
